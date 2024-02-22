@@ -1,0 +1,7 @@
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Release\net8.0\PubTmp\Out\Hello World Web.exe
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Release\net8.0\PubTmp\Out\Hello World Web.dll
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Release\net8.0\PubTmp\Out\Hello World Web.deps.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Release\net8.0\PubTmp\Out\Hello World Web.runtimeconfig.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Release\net8.0\PubTmp\Out\Hello World Web.pdb

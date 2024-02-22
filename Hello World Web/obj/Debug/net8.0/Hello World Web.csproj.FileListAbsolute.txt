@@ -1,0 +1,61 @@
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\bin\Debug\net8.0\appsettings.json
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\bin\Debug\net8.0\Hello World Web.staticwebassets.runtime.json
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\bin\Debug\net8.0\Hello World Web.exe
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\bin\Debug\net8.0\Hello World Web.deps.json
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\bin\Debug\net8.0\Hello World Web.runtimeconfig.json
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\bin\Debug\net8.0\Hello World Web.dll
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\bin\Debug\net8.0\Hello World Web.pdb
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.AssemblyInfoInputs.cache
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.AssemblyInfo.cs
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.csproj.CoreCompileInputs.cache
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.RazorAssemblyInfo.cache
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.RazorAssemblyInfo.cs
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\staticwebassets\msbuild.Hello World Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Hello World Web.props
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hello World Web.props
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hello World Web.props
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\scopedcss\bundle\Hello World Web.styles.css
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\scopedcss\projectbundle\Hello World Web.bundle.scp.css
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.dll
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\refint\Hello World Web.dll
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.pdb
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\Hello World Web.genruntimeconfig.cache
+C:\Users\urvil.shah\source\repos\Hello World Web\Hello World Web\obj\Debug\net8.0\ref\Hello World Web.dll
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\bin\Debug\net8.0\appsettings.Development.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\bin\Debug\net8.0\appsettings.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\bin\Debug\net8.0\Hello World Web.staticwebassets.runtime.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\bin\Debug\net8.0\Hello World Web.exe
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\bin\Debug\net8.0\Hello World Web.deps.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\bin\Debug\net8.0\Hello World Web.runtimeconfig.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\bin\Debug\net8.0\Hello World Web.dll
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\bin\Debug\net8.0\Hello World Web.pdb
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.AssemblyInfoInputs.cache
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.AssemblyInfo.cs
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.csproj.CoreCompileInputs.cache
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.RazorAssemblyInfo.cache
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.RazorAssemblyInfo.cs
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\staticwebassets\msbuild.Hello World Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Hello World Web.props
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hello World Web.props
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hello World Web.props
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\scopedcss\bundle\Hello World Web.styles.css
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\scopedcss\projectbundle\Hello World Web.bundle.scp.css
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.dll
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\refint\Hello World Web.dll
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.pdb
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.genruntimeconfig.cache
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\ref\Hello World Web.dll
+D:\OneDrive - Cygnet Infotech Pvt. Ltd\Training\GIT_Sample\Hello World Web\obj\Debug\net8.0\Hello World Web.sourcelink.json
